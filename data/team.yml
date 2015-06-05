@@ -1,0 +1,6 @@
+- name: francoise
+  image: some_product.png
+- name: tatiana
+  image: other_product.png
+  name: florent
+  image:

@@ -1,0 +1,40 @@
+#banner {
+  background-image: image-url("background.jpg");
+  color: white;
+  padding: 150px 0;
+  background-size: cover;
+  height: 600px;
+}
+  h1{
+  font-size: 50px;
+  font-weight: 150;
+}
+p{
+font-size: 25px;
+font-weight: 100;
+}
+
+
+.bg-blue{
+  background-color: #469ae0
+}
+
+.card {
+  padding: 50px;
+  margin: 20px 50px;
+  text-align: center;
+  color: white;
+}
+
+.map{
+  padding:50px;
+  text-align: center;
+h2{
+  font-size: 25px
+}
+}
+
+.form {
+  display: block;
+  margin-top: 10px;
+}
